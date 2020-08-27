@@ -1,57 +1,57 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Joe Konen",
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
+    "email": "jkonen04@aurora.edu",
+    "phone": "630-809-7436",
     "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": "I am studying for a B.S. in Computer Science at Aurora University. I expect to graduate in Spring 2021.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "60554",
+      "city": "Sugar Grove",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "Illinois"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "Joe-Konen",
+        "url": "http://github.com/Joe-Konen"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Joe-Konen",
+        "url": "https://www.linkedin.com/in/joe-konen-4b1285180/"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "joe-konen",
+        "url": "http://twitter.com/realdonaldtrump"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "Joe",
+        "url": "http://instagram.com/Aurorauniversity"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Hardware",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "PC Systems",
+        "Macintosh"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Database Design",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Software Testing",
       "keywords": [
       ]
     }
@@ -61,12 +61,11 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
+        "Python",
+        "C#",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "HTML"
       ]
     },
     {
@@ -76,38 +75,46 @@
         "MacOS",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Windows"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "Aurora University, Aurora, Illinois",
+      "area": "Computer Science (expected Spring, 2021)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
+      "startDate": "2017-09-01",
+      "endDate": "2021",
+      "gpa": "3.8",
       "courses": [
+        "Java I,II,III",
+        "Computer Architecture",
+        "Software Engineering",
+        "Database Design and Implementation",
+        "Web Application Development",
+        "Systems Design",
+        "Linux and Unix Administration",
+        "Calculus I and II",
+        "Discrete Mathematics",
+        "Business Communication"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Fermi National Accelerator Laboratory",
+      "position": "Seasonal Employee",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2017-06-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Summer Labor Crew, Software Development",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Implemented an application to labs database system"
       ]
     },
     {
-      "company": "UH Information Technology Services",
+      "company": "Information Technology Services",
       "position": "Help Desk Consultant",
       "website": "http://www.hawaii.edu/its/",
       "startDate": "2015-01-01",
