@@ -23,4 +23,4 @@ The application is coded in Java, and connects to a MySql database. It has been 
 
 The application allows for users to login with a separate login per user, then is split up into 2 account sets. There is a users account and a management account. Users can view the hours list, see info, and sort the list, with no changes being saved to the page. Management can add/edit/remove employees, edit hours, sort the list, print the list, and other manager exclusive features.
  
-Source: <a href="https://github.com/Joe-Konen/Grounds-Overtime-List-Application"><i class="large github icon"></i>theVacay/vacay</a>
+Source: <a href="https://github.com/Joe-Konen/Grounds-Overtime-List-Application"><i class="large github icon"></i>Fermitracker</a>
